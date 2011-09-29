@@ -1,0 +1,14 @@
+{
+    "version": "0.1",
+    "description": "A simple smtp-server that proxies incoming mails to gmail based on conditions.",
+    "repository": {
+        "type": "git",
+        "url": "https://FlashFan@github.com/FlashFan/node-gmail-proxy.git"
+    },
+    "main": "./lib/index.js",
+    "author": "Patrik Stutz <patrik.stutz@gmail.com>",
+    "name": "node-gmail-proxy",
+    "engines": {
+        "node": ">=0.2.0-0"
+    }
+}
